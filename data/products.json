@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Croma 1600 Watts Steam Iron",
+        "price": 2499,
+        "rating": 4.4,
+        "brand": "Croma",
+        "image": "https://www.croma.com/croma-1600-watts-steam-iron-crah2053-grey-/p/244113"
+    },
+    {
+        "name": "Philips Daily Collection 3000 Watt hand mixer",
+        "price": 2049,
+        "rating": 4.0,
+        "brand": "Philips",
+        "image": "https://www.croma.com/black-decker-300-watt-hand-mixer-m350-white-/p/218050"
+     },
+     {
+        "name": "Usha Ceiling fan(Racer, Rich brown",
+        "price": 1059,
+        "rating": 4.8,
+        "brand": "Usha",
+        "image": "https://www.croma.com/usha-ceiling-fan-racer-rich-brown-/p/222346"
+     },
+     {
+        "name": "Bajaj 1.2L Electric kettle(Grey)",
+        "price": 1232,
+        "rating": 4.5,
+        "brand": "Bajaj",
+        "image": "https://www.croma.com/bajaj-1-2-l-electric-kettle-670102-grey-/p/216349"
+     },
+     {
+        "name": "NKD POD+ Water Filter Bottle 585ml(Black)",
+        "price": 504,
+        "rating": 4.5,
+        "brand": "NKD POD",
+        "image":"https://www.croma.com/nkd-pod+-water-filter-bottle-585ml-black-/p/206631"
+     },
+     {
+        "name": "Elica EPBI Inox Nero Built-in Microwave Oven",
+        "price": 45790,
+        "rating": 3.5,
+        "brand": "Elica",
+        "image":"https://www.croma.com/elica-epbi-inox-nero-962-mmf-72-litres-built-in-microwave-oven-8-cooking-functions-nero-plus-black-glass-/p/233160"
+
+
+     }
+    ]
+     
